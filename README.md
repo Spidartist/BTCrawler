@@ -1,6 +1,6 @@
 # BTCrawler
 Haizzz
 ##Todo 
-- [x] Make simple read UI
-- [x] Clean Code
-- [x] UI for crawl   
+- [ ] Make simple read UI
+- [ ] Clean Code
+- [ ] UI for crawl   
